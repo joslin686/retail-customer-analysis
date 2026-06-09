@@ -214,4 +214,4 @@ Sat  ░░░░░░░░░░░░░░░   ← Zero activity
 
 ## 🔗 Repository
 
-📁 [https://github.com/Marwakhot/INFO_411](https://github.com/Marwakhot/INFO_411)
+📁 [https://github.com/Marwakhot/INFO_411](https://github.com/joslin686/retail-customer-analysis)
